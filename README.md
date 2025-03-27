@@ -52,8 +52,8 @@ Make sure you have Python 3.11 or a later version installed.
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/FocusBlocker.git
-cd FocusBlocker
+git clone https://github.com/your-username/WastingTimeBlocker.git
+cd WastingTimeBlocker
 ```
 
 ### Step 3: Set Up Your Google Calendar iCal URL
